@@ -17,7 +17,7 @@ Welcome to my Simple HTML Website repository! This project serves as a foundatio
 Contributions are welcome! Whether it's fixing a bug, adding a new feature, or improving documentation, feel free to fork the repository and submit a pull request.
 
 **License:**
-This project is licensed under the MIT License.
+This project is licensed under the MIT [License](LICENSE).
 
 **Feedback:**
 If you have any suggestions, questions, or feedback, please don't hesitate to open an issue or reach out to me.
